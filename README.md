@@ -4,7 +4,7 @@
 
 原版的 RcloneBrowser 是一個非常優秀的 rclone GUI 圖形介面工具，但原作者2020年之後就沒更新了，隨著時間推移，原版在最新的 macOS 環境以及新版 rclone 搭配上出現了一些相容性問題。
 
-因為mac之後就不再支援intel核心的軟體，因此我就用claude code寫出這個版本。可能會有一些bug，歡迎提出
+因為mac之後就不再支援intel版本的軟體，我就用claude code改寫成目前這個Apple Silicon版本，順便處理一下年久失修的顯示進度問題。可能會有一些bug，歡迎提出
 
 本專案的主要目標是 **帶來 Apple Silicon (M1/M2/M3/M4) 的原生支援**，並 **適配當前最新版本 (v1.73+) 的 rclone 進度輸出格式**。
 
