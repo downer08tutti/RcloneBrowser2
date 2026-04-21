@@ -1,4 +1,4 @@
-# RcloneBrowser (Apple Silicon 支援版) 🚀
+# RcloneBrowser2 (Apple Silicon 支援版) 🚀
 
 這是一個基於 [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) (v1.8.0) 的現代化分叉版本（Fork）。
 
