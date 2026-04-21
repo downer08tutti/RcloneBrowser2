@@ -2,7 +2,10 @@
 
 這是一個基於 [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) (v1.8.0) 的現代化分叉版本（Fork）。
 
-原版的 RcloneBrowser 是一個非常優秀的 rclone GUI 圖形介面工具，但隨著時間推移，原版在最新的 macOS 環境以及新版 rclone 搭配上出現了一些相容性問題。本專案的主要目標是 **帶來 Apple Silicon (M1/M2/M3/M4) 的原生支援**，並 **適配當前最新版本 (v1.73+) 的 rclone 進度輸出格式**。
+原版的 RcloneBrowser 是一個非常優秀的 rclone GUI 圖形介面工具，但原作者2020年之後就沒更新了，隨著時間推移，原版在最新的 macOS 環境以及新版 rclone 搭配上出現了一些相容性問題。
+因為mac之後就不再支援intel核心的軟體，因此我就用claude code寫出這個版本。可能會有一些bug，歡迎提出
+
+本專案的主要目標是 **帶來 Apple Silicon (M1/M2/M3/M4) 的原生支援**，並 **適配當前最新版本 (v1.73+) 的 rclone 進度輸出格式**。
 
 > 💡 **開發筆記**：本專案的修改與重構主要是由 JasonChen 透過 [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) 輔助完成。
 
