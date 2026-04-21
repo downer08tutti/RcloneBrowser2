@@ -88,3 +88,5 @@
 ## 📄 授權條款 (License)
 
 本專案採用與原版相同的授權協議進行開源。
+
+This is an unofficial secondary development project
